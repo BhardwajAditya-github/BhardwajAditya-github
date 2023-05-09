@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Open Source Contributions
 
-🌟 I'm passionate about contributing to open source communities and have made contributions to the Plone Volto repository.
+🌟 I'm passionate about contributing to open source communities and have made contributions to the gsoc listed respositories.
 
 ## Experience
 
